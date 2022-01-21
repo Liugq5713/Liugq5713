@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Liugq5713&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 <!--
 **Liugq5713/Liugq5713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
