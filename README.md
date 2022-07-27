@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m a javascript developer
-- 😄 My life motto is strat small
+- 😄 My life motto is start small
 
 ![Liugq5713's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liugq5713&show_icons=true&theme=radical)
 <!--
